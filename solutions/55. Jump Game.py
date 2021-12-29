@@ -12,7 +12,7 @@ class Solution:
         
 #         Using Greedy : Going in reverse
         end = len(nums) - 1
-        for i in range(end, -1, -1):
+        for i in range(end, -1, -1): # Using end instead of len(nums) reduces one more calculation which improves the runtime
             if i + nums[i] >= end:
                 end = i
         return True if end == 0 else False
