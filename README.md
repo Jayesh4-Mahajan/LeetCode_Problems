@@ -8,6 +8,7 @@
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Python3](./solutions/55.%20Jump%20Game.py)|468 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|156 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python3](./solutions/58.%20Length%20of%20Last%20Word.py)|32 ms|
+|62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python3](./solutions/62.%20Unique%20Paths.py)|41 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python3](./solutions/88.%20Merge%20Sorted%20Array.py)|36 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|64 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python3](./solutions/349.%20Intersection%20of%20Two%20Arrays.py)|48 ms|
