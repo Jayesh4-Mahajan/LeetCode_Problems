@@ -12,6 +12,7 @@
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python3](./solutions/73.%20Set%20Matrix%20Zeroes.py)|132 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python3](./solutions/88.%20Merge%20Sorted%20Array.py)|36 ms|
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python3](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.py)|64 ms|
+|118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python3](./solutions/118.%20Pascal's%20Triangle.py)|46 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python3](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|944 ms|
 |349|[ Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Python3](./solutions/349.%20Intersection%20of%20Two%20Arrays.py)|48 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Python3](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.py)|64 ms|
