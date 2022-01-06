@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions/1.%20Two%20Sum.py)|109 ms|
 |16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python3](./solutions/16.%203Sum%20Closest.py)||
+|20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python3](./solutions/20.%20Valid%20Parentheses.py)|32 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python3](./solutions/21.%20Merge%20Two%20Sorted%20Lists.py)|76 ms|
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python3](./solutions/36.%20Valid%20Sudoku.py)|197 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python3](./solutions/53.%20Maximum%20Subarray.py)|652 ms|
