@@ -1,0 +1,10 @@
+# Write your MySQL query statement below
+​
+SELECT id,CASE WHEN id % 2 = 0 THEN COALESCE(pv,student) ELSE COALESCE(ns,student) END AS 'student'
+FROM
+(
+SELECT id, student, 
+LEAD(student) OVER (ORDER BY id) as ns, 
+LAG(student) OVER (ORDER BY id) as pv
+FROM Seat
+) a
