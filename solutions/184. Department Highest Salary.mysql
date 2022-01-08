@@ -1,0 +1,9 @@
+# Write your MySQL query statement below
+​
+SELECT Department, Employee, Salary FROM
+(
+SELECT d.name AS 'Department', e.name as 'Employee', e.salary AS 'Salary',
+    RANK() OVER (PARTITION BY d.name ORDER BY e.salary DESC) as 'RN' 
+FROM Employee e INNER JOIN Department d on e.departmentId = d.id
+) a WHERE RN = 1
+ORDER BY Salary Desc
