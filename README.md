@@ -39,6 +39,7 @@
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|536 ms|
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[MySQL](./solutions/185.%20Department%20Top%20Three%20Salaries.mysql)|784 ms|
 |196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|438 ms|
+|197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](./solutions/197.%20Rising%20Temperature.mysql)|432 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|105 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|51 ms|
