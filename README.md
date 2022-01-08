@@ -51,6 +51,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)|168 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python3](./solutions/454.%204Sum%20II.py)|584 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python3](./solutions/566.%20Reshape%20the%20Matrix.py)|139 ms|
+|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|232 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|206 ms|
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Python3](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.py)|2036 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|441 ms|
