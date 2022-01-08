@@ -34,6 +34,7 @@
 |178|[ Rank Scores](https://leetcode.com/problems/rank-scores/)|[MySQL](./solutions/178.%20Rank%20Scores.mysql)|1211 ms|
 |180|[ Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[MySQL](./solutions/180.%20Consecutive%20Numbers.mysql)|401 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|857 ms|
+|182|[ Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MySQL](./solutions/182.%20Duplicate%20Emails.mysql)|285 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|105 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|51 ms|
