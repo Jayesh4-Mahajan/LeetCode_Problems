@@ -42,6 +42,7 @@
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](./solutions/197.%20Rising%20Temperature.mysql)|432 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|105 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
+|226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python3](./solutions/226.%20Invert%20Binary%20Tree.py)|43 ms|
 |232|[ Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python3](./solutions/232.%20Implement%20Queue%20using%20Stacks.py)|51 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python3](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.py)|72 ms|
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python3](./solutions/242.%20Valid%20Anagram.py)|75 ms|
