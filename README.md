@@ -55,6 +55,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)|168 ms|
 |454|[ 4Sum II](https://leetcode.com/problems/4sum-ii/)|[Python3](./solutions/454.%204Sum%20II.py)|584 ms|
 |566|[ Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python3](./solutions/566.%20Reshape%20the%20Matrix.py)|139 ms|
+|622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Python3](./solutions/622.%20Design%20Circular%20Queue.py)|88 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|232 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|206 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python3](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.py)|139 ms|
