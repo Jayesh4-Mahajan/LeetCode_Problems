@@ -32,6 +32,7 @@
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Python3](./solutions/141.%20Linked%20List%20Cycle.py)|92 ms|
 |144|[ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python3](./solutions/144.%20Binary%20Tree%20Preorder%20Traversal.py)|67 ms|
 |145|[ Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python3](./solutions/145.%20Binary%20Tree%20Postorder%20Traversal.py)|41 ms|
+|169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Python3](./solutions/169.%20Majority%20Element.py)|176 ms|
 |175|[ Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./solutions/175.%20Combine%20Two%20Tables.mysql)|322 ms|
 |176|[ Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./solutions/176.%20Second%20Highest%20Salary.mysql)|177 ms|
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MySQL](./solutions/177.%20Nth%20Highest%20Salary.mysql)|342 ms|
