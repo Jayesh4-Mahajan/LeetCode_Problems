@@ -12,6 +12,12 @@ class Solution:
         # return nums[-1]
         
 #         Solution 2
-        if len(nums) == 1: return nums[0]
-        return 2*sum(set(nums)) - sum(nums)
+        # if len(nums) == 1: return nums[0]
+        # return 2*sum(set(nums)) - sum(nums)
+        
+#         Solution 3
+        a = collections.Counter(nums)
+        for key in a:
+            if a[key] == 1:
+                return key
         
