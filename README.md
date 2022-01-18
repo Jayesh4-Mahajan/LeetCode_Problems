@@ -45,6 +45,7 @@
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[MySQL](./solutions/185.%20Department%20Top%20Three%20Salaries.mysql)|784 ms|
 |196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|438 ms|
 |197|[ Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](./solutions/197.%20Rising%20Temperature.mysql)|432 ms|
+|200|[ Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python3](./solutions/200.%20Number%20of%20Islands.py)|304 ms|
 |203|[ Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python3](./solutions/203.%20Remove%20Linked%20List%20Elements.py)|105 ms|
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python3](./solutions/206.%20Reverse%20Linked%20List.py)|36 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python3](./solutions/226.%20Invert%20Binary%20Tree.py)|43 ms|
