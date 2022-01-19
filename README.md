@@ -16,6 +16,7 @@
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python3](./solutions/73.%20Set%20Matrix%20Zeroes.py)|132 ms|
 |74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python3](./solutions/74.%20Search%20a%202D%20Matrix.py)|44 ms|
 |78|[ Subsets](https://leetcode.com/problems/subsets/)|[Python3](./solutions/78.%20Subsets.py)|59 ms|
+|79|[ Word Search](https://leetcode.com/problems/word-search/)|[Python3](./solutions/79.%20Word%20Search.py)|7863 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Python3](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|66 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python3](./solutions/88.%20Merge%20Sorted%20Array.py)|36 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python3](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.py)|54 ms|
